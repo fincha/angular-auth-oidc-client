@@ -39,7 +39,7 @@
         "@angular/router": ">= 6.0.0"
     },
     "dependencies": {
-        "jsrsasign": "8.0.12"
+        "jsrsasign": "git@github.com:fincha/jsrsasign.git#8.0.12"
     },
     "devDependencies": {
         "@angular/animations": "6.0.0",
